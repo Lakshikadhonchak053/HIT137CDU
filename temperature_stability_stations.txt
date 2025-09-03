@@ -1,0 +1,2 @@
+Most Stable: Darwin Airport: StdDev 4.4°C
+Most Variable: Alice Springs: StdDev 8.3°C
